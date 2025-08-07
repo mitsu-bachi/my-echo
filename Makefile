@@ -1,6 +1,6 @@
 NAME := my-echo
 REPOSITORY := bachimitsu/$(NAME)
-TAG := 20250807
+TAG := 20250806
 GOOS := linux
 GOARCH := amd64
 
